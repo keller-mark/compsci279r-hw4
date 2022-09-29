@@ -1,9 +1,5 @@
 # compsci279r-hw4
 
-## How to open hosted version
-
-Navigate to https://keller-mark.github.io/compsci279r-hw4/ in a web browser.
-
 ## How to open locally
 
 1. Install NodeJS/NPM
@@ -34,6 +30,10 @@ npm run build
 
 The following resources were used:
 - https://fireship.io/lessons/svelte-v3-overview-firebase/
+- https://firebase.google.com/docs/web/setup
+- https://firebase.google.com/docs/firestore/quickstart
+- https://svelte.dev/docs
+- https://github.com/firebaseextended/rxfire
 
 <!--
 ## Single-page app mode
