@@ -1,5 +1,9 @@
 # compsci279r-hw4
 
+## How to open hosted version
+
+Navigate to https://keller-mark.github.io/compsci279r-hw4/ in a web browser.
+
 ## How to open locally
 
 1. Install NodeJS/NPM
